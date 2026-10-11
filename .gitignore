@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+config.json
+Agent.md
+docs/superpowers/
+.superpowers/
+dist/
+build/
+*.log
+*.download
+.env
+.env.*
+probe_*.py

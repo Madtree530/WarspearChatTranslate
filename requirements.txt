@@ -1,0 +1,9 @@
+# Validated on Windows with Python 3.12 x64.
+mss==10.2.0
+Pillow==12.3.0
+rapidocr-onnxruntime==1.4.4
+numpy==2.5.4
+opencv-python==5.0.0.93
+onnxruntime==1.31.0
+pyclipper==1.4.0
+Shapely==2.2.0
